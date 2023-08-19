@@ -18,5 +18,6 @@ paper can be used to assess the issues and best practices in
 microservice security from a mix of white and grey literature. 
 
 
-[Microservice Architecture - Security Issues and Mitigation Approaches by Narissa Tsuboi and Peter Harvey, 2023](Microservice Architecture - Security Issues and Mitigation Approaches Tsuboi Harvey 2023.pdf)
+[Microservice Architecture - Security Issues and Mitigation Approaches by Narissa Tsuboi and Peter Harvey, 2023](https://github.com/narissatsuboi/microservice-security/blob/main/Microservice%20Architecture%20-%20Security%20Issues%20and%20Mitigation%20Approaches%20Tsuboi%20Harvey%202023.pdf)
 
+[Summary of Findings Presentation](https://github.com/narissatsuboi/microservice-security/blob/main/Microservice%20Architecture%20-%20Security%20Issues%20and%20Mitigation%20Approaches%20Summary%20Presenation.pdf)
